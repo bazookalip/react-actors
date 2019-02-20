@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 } */
+
+
+.App {
+  border: 1px solid black;
+  margin: 60px;
+  background: whitesmoke;
+}
+
+body {
+  background: rgb(221, 216, 216);
+}
