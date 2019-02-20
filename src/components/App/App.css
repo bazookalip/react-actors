@@ -37,8 +37,17 @@
   border: 1px solid black;
   margin: 60px;
   background: whitesmoke;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+ 
 }
 
 body {
   background: rgb(221, 216, 216);
+}
+
+.Containers {
+  margin: 50px;
 }

@@ -8,11 +8,14 @@ import Footer from '../Footer/Footer';
 class App extends Component {
   render() {
     return (
+      <div className="Containers">
       <div className="App">
-        <Header />
-        <About />
-        <Contact />
-        <Footer />
+     
+          <Header />
+          <About />
+          <Contact />
+          <Footer />
+        </div>
       </div>
     );
   }
